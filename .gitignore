@@ -1,4 +1,9 @@
 # Logs
+stacks/minio/data/**
+stacks/mssql/data/**
+stacks/postgres/data/**
+portainer-data/**
+./*/data/**
 logs
 *.log
 npm-debug.log*
